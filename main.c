@@ -5,5 +5,5 @@ function A
 
 function B
 {
-
+	Add on Win
 }
